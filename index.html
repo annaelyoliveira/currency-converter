@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Currency Converse</title>
+</head>
+<body>
+    <div class="main"> <!--wrapper-->
+        <div class="top-titles"> <!--app-details-->
+            <img src="coin.png" class="imagem">
+            <h1>Currency Converter</h1>
+        </div>
+
+        <label for="quantia">Digite a quantia:</label>
+        <input type="number" id="quantia" value="100"> <!--amount-->
+
+        <div class="converter-set"> <!--dropdowns-->
+            <select id="from-currency-select"></select>
+            <select id="to-currency-select"></select>
+        </div>
+
+        <button id="convert-button">Converter</button>
+        <p id="result"></p>
+    </div>
+
+    <div class = left>
+        <h1>Bem Vindo ao Currency Converse!</h1>
+        <p>Digite o valor, escolha a moeda e converta</p>
+    </div>
+    <script src="currencies.js"></script>
+    <script src="api.js"></script>
+    <script src="script.js"></script>
+
+    <footer class="footer">
+        Made with
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#f64348" stroke="#f64348" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+        </svg>
+        by
+        <a href="https://github.com/annaelyoliveira" target="_blank">@annaelyoliveira</a>
+    </footer>
+</body>
+</html>
