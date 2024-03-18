@@ -1,16 +1,12 @@
 # Conversor de Moeda Web
 
-Bem-vindo ao **Currency Converse**! Este projeto tem como objetivo fornecer uma maneira fácil e rápida de converter valores entre diferentes moedas, como Real (BRL), Dólar (USD) e Euro (EUR), utilizando a API de taxas de câmbio do **ExchangeRate-API**.
+Bem-vindo ao **Currency Converse**! Fiz este simples projeto para converter valores entre diferentes moedas, como Real (BRL), Dólar (USD) e Euro (EUR), utilizando a API de taxas de câmbio do **ExchangeRate-API**.
 
 ## Tecnologias Usadas
 
-- **Frontend**:
-    - A estrutura básica da página e os elementos de entrada de dados foram implementados em **HTML**.
-    - O estilo visual da aplicação foi desenvolvido usando **CSS**. 
-    - A lógica de conversão de moeda foi implementada em **JavaScript**.
----
-
-Projeto de um simples conversor de moeda desenvolvido em **HTML**, **CSS**, **JavaScript** e utilizando a API do **ExchangeRate-API**. - [angelodesenvolvedor/Conversor-de-Moeda-Web](https://github.com/angelodesenvolvedor/Conversor-de-Moeda-Web)
+- **HTML**.
+- **CSS**.
+- **JavaScript**.
 
 
 ## Conversor de Moedas - Currency Converse
