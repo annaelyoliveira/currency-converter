@@ -10,5 +10,5 @@ Bem-vindo ao **Currency Converse**! Fiz este simples projeto para converter valo
 
 
 ## Conversor de Moedas - Currency Converse
-[conversor.webm](https://github.com/annaelyoliveira/currency-converter/assets/137449419/032e48e3-cd0a-4490-99a8-fbf23ecaba60)
+https://github.com/annaelyoliveira/currency-converter/assets/137449419/032e48e3-cd0a-4490-99a8-fbf23ecaba60
 
